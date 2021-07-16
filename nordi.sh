@@ -6,7 +6,6 @@ do
 	echo "Going with $country this time :D"
 	echo ""
 	nordvpn connect $country
-	megacmd &
 	sleep 300
 	echo "5 mins..."
 	sleep 300
